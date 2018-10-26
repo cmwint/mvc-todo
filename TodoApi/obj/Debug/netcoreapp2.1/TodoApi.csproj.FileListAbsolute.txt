@@ -1,0 +1,14 @@
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.deps.json
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csprojAssemblyReference.cache
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.dll
+/Users/corinnewinthrop/code/reports/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.pdb
